@@ -1,0 +1,18 @@
+.local{
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+
+.local-button{
+    border-radius: 5px;
+    width: 70px;
+    height: 30px;
+    font-size: 16px;
+    font-family: Arial;
+    background-color: lightgrey;
+    margin: 0;
+    padding: 0;
+
+}
